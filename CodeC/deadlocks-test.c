@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
-
+ 
 int a = 0, b = 0;
 pthread_mutex_t lock_a, lock_b;
 

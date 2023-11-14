@@ -9,7 +9,7 @@ class ResourcesExploiter {
     }
 
     public int getRsc() {
-        return rsc;
+        return rsc; 
     }
 
     public ResourcesExploiter(int n) {
